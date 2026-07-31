@@ -1,578 +1,290 @@
 [
   {
     "number": 1,
-    "roman": "I",
-    "name": "The Awakening",
-    "glyph": "☉",
-    "archetype": "Dawn",
-    "element": "Aether",
     "keywords": [
-      "beginning",
-      "clarity",
-      "first light"
-    ],
-    "meaning": "A veil lifts. What was dim now sharpens into form. You are being called back to yourself — not to become someone new, but to remember who you were before the world asked you to shrink.",
-    "affirmation": "I rise into the truth of who I am.",
-    "reflection_prompt": "What is asking to be seen clearly in your life right now?"
+      "Beginning",
+      "Potential",
+      "Possibility"
+    ]
   },
   {
     "number": 2,
-    "roman": "II",
-    "name": "The Mirror",
-    "glyph": "◳",
-    "archetype": "Reflection",
-    "element": "Water",
     "keywords": [
-      "truth",
-      "self-knowledge",
-      "honesty"
-    ],
-    "meaning": "The mirror does not flatter — it reveals. What you see in others is often your own face in disguise. Turn inward and meet yourself without flinching.",
-    "affirmation": "I behold myself with unflinching grace.",
-    "reflection_prompt": "What quality in others most unsettles you — and where does it live within you?"
+      "Grounding",
+      "Stability",
+      "Foundation"
+    ]
   },
   {
     "number": 3,
-    "roman": "III",
-    "name": "The Threshold",
-    "glyph": "⛬",
-    "archetype": "Passage",
-    "element": "Aether",
     "keywords": [
-      "transition",
-      "courage",
-      "crossing"
-    ],
-    "meaning": "You stand at a doorway that will not remain open forever. The old room has nothing left to teach you. Step through — the unknown is not your enemy, only your next teacher.",
-    "affirmation": "I cross the thresholds that call me forward.",
-    "reflection_prompt": "What threshold are you standing at, and what is holding you at the frame?"
+      "Learning",
+      "Expansion",
+      "Development"
+    ]
   },
   {
     "number": 4,
-    "roman": "IV",
-    "name": "The Ember",
-    "glyph": "✦",
-    "archetype": "Inner fire",
-    "element": "Fire",
     "keywords": [
-      "passion",
-      "persistence",
-      "spark"
-    ],
-    "meaning": "A small flame still burns beneath the ash. Tend it. Blow gently. The fire that never went out is the one that will warm everything that comes next.",
-    "affirmation": "I tend the fire that is mine to keep.",
-    "reflection_prompt": "What passion have you let grow cold — and is it time to breathe on it again?"
+      "Support",
+      "Discipline",
+      "Strength"
+    ]
   },
   {
     "number": 5,
-    "roman": "V",
-    "name": "The Tide",
-    "glyph": "≋",
-    "archetype": "Flow",
-    "element": "Water",
     "keywords": [
-      "surrender",
-      "cycles",
-      "release"
-    ],
-    "meaning": "You cannot command the tide, only learn its rhythm. What you resist is also what carries you. Soften your grip and let the current do its work.",
-    "affirmation": "I move with the rhythm that carries me.",
-    "reflection_prompt": "Where are you swimming against a current that is trying to take you somewhere necessary?"
+      "Transformation",
+      "Momentum",
+      "Growth"
+    ]
   },
   {
     "number": 6,
-    "roman": "VI",
-    "name": "The Crown",
-    "glyph": "♕",
-    "archetype": "Sovereignty",
-    "element": "Fire",
     "keywords": [
-      "worth",
-      "authority",
-      "claiming"
-    ],
-    "meaning": "You have earned the right to your own life. Stop waiting for permission to take up space. The crown was always yours — you simply had to grow into it.",
-    "affirmation": "I claim the sovereignty of my own life.",
-    "reflection_prompt": "Where are you still waiting for permission you no longer need?"
+      "Expression",
+      "Authenticity",
+      "Purpose"
+    ]
   },
   {
     "number": 7,
-    "roman": "VII",
-    "name": "The Roots",
-    "glyph": "⟡",
-    "archetype": "Foundation",
-    "element": "Earth",
     "keywords": [
-      "grounding",
-      "heritage",
-      "depth"
-    ],
-    "meaning": "Before the branches can reach, the roots must deepen. Tend to what is hidden — your foundations, your body, your lineage. What grows tall must first grow down.",
-    "affirmation": "I am rooted in what is true and lasting.",
-    "reflection_prompt": "What in your life needs deeper roots before it can safely grow taller?"
+      "Refinement",
+      "Potency",
+      "Mastery"
+    ]
   },
   {
     "number": 8,
-    "roman": "VIII",
-    "name": "The Veil",
-    "glyph": "❂",
-    "archetype": "Mystery",
-    "element": "Aether",
     "keywords": [
-      "intuition",
-      "the unseen",
-      "trust"
-    ],
-    "meaning": "Not everything is meant to be understood at once. Some truths arrive only to those who wait. Trust what you sense but cannot yet name.",
-    "affirmation": "I trust what I know before I can prove it.",
-    "reflection_prompt": "What do you sense beneath the surface that you have not yet named?"
+      "Receiving",
+      "Integration",
+      "Gratitude"
+    ]
   },
   {
     "number": 9,
-    "roman": "IX",
-    "name": "The Compass",
-    "glyph": "✧",
-    "archetype": "Direction",
-    "element": "Air",
     "keywords": [
-      "guidance",
-      "alignment",
-      "true north"
-    ],
-    "meaning": "You have drifted, but not lost your way. The compass still points inward. Recalibrate to your deepest value and the path will reappear beneath your feet.",
-    "affirmation": "I am guided by my own true north.",
-    "reflection_prompt": "When you strip everything away, what single value is your true north?"
+      "Wisdom",
+      "Completion",
+      "Legacy"
+    ]
   },
   {
     "number": 10,
-    "roman": "X",
-    "name": "The Lantern",
-    "glyph": "✶",
-    "archetype": "Illumination",
-    "element": "Fire",
     "keywords": [
-      "hope",
-      "guidance",
-      "warmth"
-    ],
-    "meaning": "You do not need to see the whole road — only the next few steps. The lantern in your hand is enough. Walk forward and the light will move with you.",
-    "affirmation": "I carry the light I need for the next step.",
-    "reflection_prompt": "What is the next right step, even if you can't see beyond it?"
+      "Authority",
+      "Self-Governance",
+      "Command"
+    ]
   },
   {
     "number": 11,
-    "roman": "XI",
-    "name": "The Eclipse",
-    "glyph": "◑",
-    "archetype": "Shadow",
-    "element": "Aether",
     "keywords": [
-      "integration",
-      "shadow",
-      "wholeness"
-    ],
-    "meaning": "What was hidden in shadow now asks to be held. You are not broken by your darkness — you are made whole by meeting it. The eclipse passes; integration remains.",
-    "affirmation": "I am made whole by all that I am.",
-    "reflection_prompt": "What part of yourself have you exiled that is ready to come home?"
+      "Connection",
+      "Loyalty",
+      "Presence"
+    ]
   },
   {
     "number": 12,
-    "roman": "XII",
-    "name": "The Bloom",
-    "glyph": "❀",
-    "archetype": "Becoming",
-    "element": "Earth",
     "keywords": [
-      "growth",
-      "unfolding",
-      "patience"
-    ],
-    "meaning": "You have tended this long enough. Now let it open. The bloom cannot be forced — only given the conditions to arrive on its own time. Yours is arriving.",
-    "affirmation": "I unfold in my own perfect timing.",
-    "reflection_prompt": "What in your life is finally ready to bloom?"
+      "Imagination",
+      "Manifestation",
+      "Originality"
+    ]
   },
   {
     "number": 13,
-    "roman": "XIII",
-    "name": "The Storm",
-    "glyph": "⛈",
-    "archetype": "Catharsis",
-    "element": "Air",
     "keywords": [
-      "disruption",
-      "clearing",
-      "renewal"
-    ],
-    "meaning": "The storm is not here to destroy you — it is here to clear what was already dead. Let it pass. What remains is what was always meant to stay.",
-    "affirmation": "I trust the clearing that the storm brings.",
-    "reflection_prompt": "What storm in your life is actually clearing space for something better?"
+      "Vision",
+      "Planning",
+      "Precision"
+    ]
   },
   {
     "number": 14,
-    "roman": "XIV",
-    "name": "The Silence",
-    "glyph": "◌",
-    "archetype": "Stillness",
-    "element": "Aether",
     "keywords": [
-      "rest",
-      "listening",
-      "presence"
-    ],
-    "meaning": "Stop. The noise has nothing more to tell you. In the silence lives the answer you've been shouting over. Sit with it. Let it speak first.",
-    "affirmation": "I find my answers in stillness.",
-    "reflection_prompt": "What might you hear if you stopped making noise for long enough?"
+      "Curiosity",
+      "Discovery",
+      "Freedom"
+    ]
   },
   {
     "number": 15,
-    "roman": "XV",
-    "name": "The Flame",
-    "glyph": "✺",
-    "archetype": "Transformation",
-    "element": "Fire",
     "keywords": [
-      "transformation",
-      "courage",
-      "rebirth"
-    ],
-    "meaning": "What burns is being refined, not destroyed. The flame takes what is temporary and leaves what is essential. Let it burn. You will not lose what is real.",
-    "affirmation": "I am refined, not ruined, by what I release.",
-    "reflection_prompt": "What are you afraid to lose — and is it truly essential?"
+      "Balance",
+      "Diplomacy",
+      "Integration"
+    ]
   },
   {
     "number": 16,
-    "roman": "XVI",
-    "name": "The Garden",
-    "glyph": "❁",
-    "archetype": "Cultivation",
-    "element": "Earth",
     "keywords": [
-      "nurture",
-      "abundance",
-      "care"
-    ],
-    "meaning": "What you tend, grows. What you neglect, withers. Look at your life as a garden — what needs water, what needs pruning, what needs simply to be left in the sun.",
-    "affirmation": "I tend what I wish to see flourish.",
-    "reflection_prompt": "Which part of your life is a garden you've stopped tending?"
+      "Wisdom",
+      "Discernment",
+      "Clarity"
+    ]
   },
   {
     "number": 17,
-    "roman": "XVII",
-    "name": "The Serpent",
-    "glyph": "⟴",
-    "archetype": "Shedding",
-    "element": "Earth",
     "keywords": [
-      "renewal",
-      "release",
-      "wisdom"
-    ],
-    "meaning": "It is time to shed what no longer fits. The skin you have outgrown will not stretch to hold who you are becoming. Leave it behind without grief.",
-    "affirmation": "I shed what I have outgrown.",
-    "reflection_prompt": "What old version of yourself are you still carrying that no longer fits?"
+      "Transmutation",
+      "Mastery",
+      "Renewal"
+    ]
   },
   {
     "number": 18,
-    "roman": "XVIII",
-    "name": "The Moon",
-    "glyph": "☾",
-    "archetype": "The subconscious",
-    "element": "Water",
     "keywords": [
-      "dreams",
-      "intuition",
-      "mystery"
-    ],
-    "meaning": "The moon illuminates what the sun overlooks — the soft, the hidden, the felt. Pay attention to your dreams and your longings. They are messages in a language you already speak.",
-    "affirmation": "I honor the wisdom that comes in the dark.",
-    "reflection_prompt": "What dream or longing keeps returning to you?"
+      "Legacy",
+      "Guidance",
+      "Timelessness"
+    ]
   },
   {
     "number": 19,
-    "roman": "XIX",
-    "name": "The Sun",
-    "glyph": "☀",
-    "archetype": "Vitality",
-    "element": "Fire",
     "keywords": [
-      "joy",
-      "vitality",
-      "radiance"
-    ],
-    "meaning": "Allow yourself to be warmed. You have earned your place in the light. Joy is not a reward for finishing — it is the fuel for continuing. Stand in it.",
-    "affirmation": "I allow myself to be filled with light.",
-    "reflection_prompt": "What would it look like to let yourself feel pure, uncomplicated joy today?"
+      "Intuition",
+      "Alignment",
+      "Beginning"
+    ]
   },
   {
     "number": 20,
-    "roman": "XX",
-    "name": "The Star",
-    "glyph": "✯",
-    "archetype": "Hope",
-    "element": "Aether",
     "keywords": [
-      "hope",
-      "faith",
-      "guidance"
-    ],
-    "meaning": "After the longest night, a single star is enough. You are being guided, even when the path is dark. Look up. The light you follow is also the light you carry.",
-    "affirmation": "I am guided, even in the dark.",
-    "reflection_prompt": "What star — what distant hope — are you navigating by?"
+      "Stability",
+      "Trust",
+      "Patience"
+    ]
   },
   {
     "number": 21,
-    "roman": "XXI",
-    "name": "The River",
-    "glyph": "⌇",
-    "archetype": "Persistence",
-    "element": "Water",
     "keywords": [
-      "persistence",
-      "patience",
-      "softening"
-    ],
-    "meaning": "The river does not argue with the stone — it simply continues. What seems immovable will, in time, yield to what flows. Keep moving. You are already carving the path.",
-    "affirmation": "I persist, and the path opens before me.",
-    "reflection_prompt": "Where might gentle, persistent movement succeed where force has failed?"
+      "Creativity",
+      "Expression",
+      "Growth"
+    ]
   },
   {
     "number": 22,
-    "roman": "XXII",
-    "name": "The Mountain",
-    "glyph": "△",
-    "archetype": "Aspiration",
-    "element": "Earth",
     "keywords": [
-      "ambition",
-      "perspective",
-      "steadfastness"
-    ],
-    "meaning": "You are being asked to climb — not to conquer, but to see. The view from the summit will reorder what matters. The climb is worth it. Begin.",
-    "affirmation": "I ascend toward a wider view of my life.",
-    "reflection_prompt": "What mountain in your life is asking you to climb it for the perspective it offers?"
+      "Discipline",
+      "Protection",
+      "Support"
+    ]
   },
   {
     "number": 23,
-    "roman": "XXIII",
-    "name": "The Key",
-    "glyph": "✛",
-    "archetype": "Access",
-    "element": "Air",
     "keywords": [
-      "unlocking",
-      "insight",
-      "solution"
-    ],
-    "meaning": "The door was never locked — you were holding the wrong key. The answer has been in your hand all along. Turn it. What opens may surprise you.",
-    "affirmation": "I hold the key to what I seek.",
-    "reflection_prompt": "What if the answer you're searching for is already in your hands?"
+      "Change",
+      "Freedom",
+      "Evolution"
+    ]
   },
   {
     "number": 24,
-    "roman": "XXIV",
-    "name": "The Wound",
-    "glyph": "♁",
-    "archetype": "Healing",
-    "element": "Water",
     "keywords": [
-      "healing",
-      "vulnerability",
-      "strength"
-    ],
-    "meaning": "The wound is not your shame — it is your initiation. What has broken you open is also what has made you deep. Tend to it gently. Scars are proof of survival.",
-    "affirmation": "My wounds are the source of my depth.",
-    "reflection_prompt": "What wound are you ready to stop hiding and start tending?"
+      "Reflection",
+      "Recalibration",
+      "Awareness"
+    ]
   },
   {
     "number": 25,
-    "roman": "XXV",
-    "name": "The Bridge",
-    "glyph": "⫶",
-    "archetype": "Connection",
-    "element": "Air",
     "keywords": [
-      "connection",
-      "reconciliation",
-      "reaching"
-    ],
-    "meaning": "A gap exists only until someone builds across it. Be the one who reaches. The bridge you extend may be the one you yourself most need to cross.",
-    "affirmation": "I build the bridges that connect what is divided.",
-    "reflection_prompt": "What bridge in your life is waiting for you to be the one who reaches first?"
+      "Mastery",
+      "Understanding",
+      "Spiritual Intelligence"
+    ]
   },
   {
     "number": 26,
-    "roman": "XXVI",
-    "name": "The Seed",
-    "glyph": "❂",
-    "archetype": "Potential",
-    "element": "Earth",
     "keywords": [
-      "potential",
-      "beginning",
-      "faith"
-    ],
-    "meaning": "What looks like nothing is actually everything in waiting. The seed holds the entire tree. Plant it. Trust the dark soil. What is invisible today is taking root.",
-    "affirmation": "I trust the unseen work of becoming.",
-    "reflection_prompt": "What seed have you planted that you need to trust more patiently?"
+      "Abundance",
+      "Flow",
+      "Prosperity"
+    ]
   },
   {
     "number": 27,
-    "roman": "XXVII",
-    "name": "The Harvest",
-    "glyph": "✤",
-    "archetype": "Reaping",
-    "element": "Earth",
     "keywords": [
-      "gratitude",
-      "completion",
-      "reward"
-    ],
-    "meaning": "Pause to gather what you have grown. You have been so focused on the next field that you've forgotten to reap this one. Receive what is yours. You earned it.",
-    "affirmation": "I receive the fruits of what I have tended.",
-    "reflection_prompt": "What have you grown that you haven't stopped to appreciate and gather?"
+      "Completion",
+      "Release",
+      "Renewal"
+    ]
   },
   {
     "number": 28,
-    "roman": "XXVIII",
-    "name": "The Labyrinth",
-    "glyph": "◈",
-    "archetype": "The path within",
-    "element": "Aether",
     "keywords": [
-      "inward journey",
-      "patience",
-      "trust"
-    ],
-    "meaning": "The labyrinth leads not out, but in. Stop looking for the exit and follow the spiral. The center you seek is also the center you are. You cannot be lost on a path that leads to yourself.",
-    "affirmation": "Every turn leads me closer to my center.",
-    "reflection_prompt": "Where in your life do you feel lost — and what if the path is actually leading inward?"
+      "Release",
+      "Ease",
+      "Deep Rest"
+    ]
   },
   {
     "number": 29,
-    "roman": "XXIX",
-    "name": "The Falcon",
-    "glyph": "⤴",
-    "archetype": "Vision",
-    "element": "Air",
     "keywords": [
-      "vision",
-      "focus",
-      "elevation"
-    ],
-    "meaning": "Rise above the detail. From a higher view, the pattern becomes clear. What seems tangled at ground level is orderly from above. Elevate your perspective.",
-    "affirmation": "I rise above to see the whole pattern.",
-    "reflection_prompt": "What situation needs you to step back and see it from a higher vantage point?"
+      "Clarity",
+      "Uplift",
+      "Renewal"
+    ]
   },
   {
     "number": 30,
-    "roman": "XXX",
-    "name": "The Lotus",
-    "glyph": "❉",
-    "archetype": "Purity",
-    "element": "Water",
     "keywords": [
-      "purity",
-      "emergence",
-      "grace"
-    ],
-    "meaning": "The most beautiful things grow from the murkiest ground. You are not diminished by where you came from — you are refined by it. Rise. Bloom. Leave the mud behind without resenting it.",
-    "affirmation": "I bloom from all that I have been through.",
-    "reflection_prompt": "What beauty in you has grown directly from difficulty?"
+      "Protection",
+      "Discernment",
+      "Integrity"
+    ]
   },
   {
     "number": 31,
-    "roman": "XXXI",
-    "name": "The Obsidian",
-    "glyph": "◆",
-    "archetype": "Protection",
-    "element": "Earth",
     "keywords": [
-      "protection",
-      "boundaries",
-      "truth"
-    ],
-    "meaning": "Guard what is sacred. Not everything deserves access to your soft places. Set the boundary. The stone does not apologize for being hard — it knows what it is protecting.",
-    "affirmation": "I protect what is sacred within me.",
-    "reflection_prompt": "Where do you need a firmer boundary — and what are you protecting?"
+      "Calm",
+      "Safety",
+      "Restoration"
+    ]
   },
   {
     "number": 32,
-    "roman": "XXXII",
-    "name": "The Pearl",
-    "glyph": "◉",
-    "archetype": "Alchemy",
-    "element": "Water",
     "keywords": [
-      "transmutation",
-      "beauty from pain",
-      "patience"
-    ],
-    "meaning": "What irritated you can become your most valuable possession. The pearl is the oyster's answer to the wound. Let your friction become something luminous.",
-    "affirmation": "I transform friction into beauty.",
-    "reflection_prompt": "What ongoing irritation in your life could be slowly becoming something precious?"
+      "Clarity",
+      "Alertness",
+      "Precision"
+    ]
   },
   {
     "number": 33,
-    "roman": "XXXIII",
-    "name": "The Phoenix",
-    "glyph": "✷",
-    "archetype": "Rebirth",
-    "element": "Fire",
     "keywords": [
-      "rebirth",
-      "resilience",
-      "rising"
-    ],
-    "meaning": "You have burned and you have fallen — and still you rise. This is not your first ending and it will not be your last becoming. Each ash is a beginning. Rise again.",
-    "affirmation": "I rise from every ending into a new becoming.",
-    "reflection_prompt": "What in your life has ended that is actually the beginning of your next rising?"
+      "Discipline",
+      "Endurance",
+      "Earned Strength"
+    ]
   },
   {
     "number": 34,
-    "roman": "XXXIV",
-    "name": "The Atlas",
-    "glyph": "✸",
-    "archetype": "Responsibility",
-    "element": "Earth",
     "keywords": [
-      "responsibility",
-      "strength",
-      "carrying"
-    ],
-    "meaning": "You carry more than you realize — and you are stronger than you know. But not every weight is yours to bear. Set down what was never yours. Lift only what is truly yours to hold.",
-    "affirmation": "I carry only what is truly mine to hold.",
-    "reflection_prompt": "What weight are you carrying that was never yours to bear?"
+      "Imagination",
+      "Multiplicity",
+      "Possibility"
+    ]
   },
   {
     "number": 35,
-    "roman": "XXXV",
-    "name": "The Sanctum",
-    "glyph": "❖",
-    "archetype": "Sanctuary",
-    "element": "Aether",
     "keywords": [
-      "sanctuary",
-      "sacred space",
-      "rest"
-    ],
-    "meaning": "Build a place — inner or outer — where you are untouchable. Not to hide, but to restore. You cannot pour from an empty vessel. Return to your sanctum and be refilled.",
-    "affirmation": "I return to my sanctuary to be restored.",
-    "reflection_prompt": "Where or what is your sanctum — and when did you last retreat to it?"
+      "Change",
+      "Adaptability",
+      "Lightness"
+    ]
   },
   {
     "number": 36,
-    "roman": "XXXVI",
-    "name": "The Return",
-    "glyph": "❍",
-    "archetype": "Homecoming",
-    "element": "Aether",
     "keywords": [
-      "return",
-      "wholeness",
-      "arrival"
-    ],
-    "meaning": "The journey bends back to where you began, but you are no longer the one who left. You have become the place you were searching for. Rest. You have arrived — at yourself.",
-    "affirmation": "I have arrived home, within myself.",
-    "reflection_prompt": "How have you changed since you began — and where is home for you now?"
+      "Release",
+      "Muscle",
+      "Cellular Restoration"
+    ]
   }
 ]
